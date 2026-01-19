@@ -5,7 +5,7 @@ These ensure **vector addition behaves like normal addition**.
 
 ### 1. Closure under addition
 
-If **${v}$** and **${w}$** are in the space, then **${v + w}$** is also in the space.
+If **${v}$** and **${w}$** are in the space, then **${v + w}$** is also in the space
 
 📌 Without this: adding vectors could throw you outside the universe.
 
@@ -13,7 +13,9 @@ If **${v}$** and **${w}$** are in the space, then **${v + w}$** is also in the s
 
 ### 2. Commutativity
 
-${v + w = w + v}$
+$$
+{v + w = w + v}
+$$
 
 📌 Direction shouldn’t depend on order.
 
@@ -21,7 +23,9 @@ ${v + w = w + v}$
 
 ### 3. Associativity
 
-${(v + w) + u = v + (w + u)}$
+$$
+{(v + w) + u = v + (w + u)}
+$$
 
 📌 Grouping shouldn’t change meaning.
 
@@ -29,7 +33,9 @@ ${(v + w) + u = v + (w + u)}$
 
 ### 4. Additive identity (zero vector)
 
-${v + 0 = v}$
+$$
+{v + 0 = v}
+$$
 
 📌 There must be a “do nothing” vector.
 
@@ -37,7 +43,9 @@ ${v + 0 = v}$
 
 ### 5. Additive inverse
 
-${v + (−v) = 0}$
+$$
+{v + (−v) = 0}
+$$
 
 📌 Every move must be undoable.
 
@@ -57,7 +65,9 @@ ${αv}$ is in the space for any scalar ${α}$
 
 ### 7. Distributivity over vector addition
 
-${α(v + w) = αv + αw}$
+$$
+{α(v + w) = αv + αw}
+$$
 
 📌 Scaling a sum should match summing scaled parts.
 
@@ -65,7 +75,9 @@ ${α(v + w) = αv + αw}$
 
 ### 8. Distributivity over scalar addition
 
-${(α + β)v = αv + βv}$
+$$
+{(α + β)v = αv + βv}
+$$
 
 📌 Multiple scalings should combine logically.
 
@@ -73,7 +85,9 @@ ${(α + β)v = αv + βv}$
 
 ### 9. Associativity of scalar multiplication
 
-${α(βv) = (αβ)v}$
+$$
+{α(βv) = (αβ)v}
+$$
 
 📌 Scaling order must not matter.
 
@@ -83,7 +97,9 @@ ${α(βv) = (αβ)v}$
 
 ### 🔟 Scalar identity
 
-${1 · v = v}$
+$$
+{1 · v = v}
+$$
 
 📌 Multiplying by “one” should change nothing.
 
@@ -102,7 +118,9 @@ $$
 
 Meaning:
 
-Transforming ${a}$ sum = summing the transforms
+Transforming $$
+{a}$ sum = summing the transform
+s$
 
 ---
 
