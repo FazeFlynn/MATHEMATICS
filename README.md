@@ -105,10 +105,10 @@ $$
 
 
 ---
+---
 
 <br>
-<br>
-<br>
+
 
 
 # Linear Transformation Rules
