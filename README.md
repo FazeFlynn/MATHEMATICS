@@ -122,9 +122,7 @@ $$
 
 Meaning:
 
-Transforming $$
-{a}$ sum = summing the transform
-s$
+Transforming ${a}$ sum = summing the transforms
 
 ---
 
@@ -142,5 +140,5 @@ Scaling first or transforming first gives the same result
 ---
 ---
 $$
-{End\;of\;file}
+{End\,of\,file}
 $$
