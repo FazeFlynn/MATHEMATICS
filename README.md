@@ -1,3 +1,7 @@
+$$
+{\color{yellow}\text{**************************************************************************************}}
+$$
+
 # The Vector Space Rules
 ## Group 1️⃣: Rules that make addition behave sensibly (5 rules)
 
