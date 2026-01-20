@@ -1,9 +1,3 @@
-$$
-{\color{yellow}\text{-------------------------------------------------------------------------------}}
-$$
-
-
-
 # The Vector Space Rules
 ## Group 1️⃣: Rules that make addition behave sensibly (5 rules)
 
@@ -116,6 +110,10 @@ $$
 <br>
 
 
+$$
+{\color{yellow}\text{-----------------------------------------------------------------------------------------------}}
+$$
+
 
 # Linear Transformation Rules
 
@@ -147,6 +145,10 @@ Scaling first or transforming first gives the same result
 ---
 
 <br>
+
+$$
+{\color{yellow}\text{-----------------------------------------------------------------------------------------------}}
+$$
 
 # EigenValues & Eigenvectors 
 
