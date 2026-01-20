@@ -1,8 +1,8 @@
 $$
-\color{purple}==================================
+\color{purple}\text{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}
 $$
 
-![](https://via.placeholder.com/1000x2/ff0000/ff0000?text=+)
+
 
 # The Vector Space Rules
 ## Group 1️⃣: Rules that make addition behave sensibly (5 rules)
