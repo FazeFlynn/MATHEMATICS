@@ -1,13 +1,5 @@
-${\color{red}\rule{\linewidth}{1pt}}$
-<div style="height:2px; width:100%; background-color:yellow;"></div>
-
 $$
-\color{red}\rule{100%}{1pt}
-$$
-
-
-$$
-\color{red}\text{————————————————————————————————————}
+\color{purple}\text{==================================}
 $$
 
 # The Vector Space Rules
