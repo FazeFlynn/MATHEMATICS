@@ -518,15 +518,12 @@ $$
 * $${\mu}$$: the **mean** (center of the distribution)
 * $${\sigma}$$: the **standard deviation** (spread of the distribution)
 * $${\pi}$$: the mathematical constant pi
-* $${e}$$: Euler’s number
+* $${e}$$: Euler’s number (${e \approx 2.718}$)
 
 
 
 ---
 ---
-
-
-
 
 
 $$
