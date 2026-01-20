@@ -145,7 +145,8 @@ $$
 
 # EigenValues & Eigenvectors 
 
-> ${\Rightarrow}$ An **eigenvector** is a **non-zero vector whose direction does not change** under a linear transformation — only its length may change.
+${\Rightarrow}$ > An **eigenvector** is a **non-zero vector whose direction does not change** under a linear transformation — only its length may change.
+
 If direction changes → **not** an eigenvector.
 
 ---
