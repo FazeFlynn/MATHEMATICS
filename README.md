@@ -496,10 +496,33 @@ $$
 **Eigenvectors are directions a transformation cannot bend — it can only stretch or flip them.**
 
 ---
----
+
+$$
+{\color{yellow}\text{***************************************************************************************************}}
+$$
 
 <br>
 
+# Normal distribution/Gaussian distribution probability density function (PDF):
+
+$$
+{
+f(x) = \frac{1}{\sigma \sqrt{2\pi}} , e^{-\frac{(x - \mu)^2}{2\sigma^2}}
+}
+$$
+
+### Meaning of the symbols
+
+* $${x}$$: the random variable (or a list of numbers)
+* $${\mu}$$: the **mean** (center of the distribution)
+* $${\sigma}$$: the **standard deviation** (spread of the distribution)
+* $${\pi}$$: the mathematical constant pi
+* $${e}$$: Euler’s number
+
+
+
+---
+---
 
 
 
