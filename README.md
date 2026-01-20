@@ -140,7 +140,8 @@ Scaling first or transforming first gives the same result
 ---
 ---
 
-<hr style="background-color:yellow; height:2px; border:none;">
+${\color{red}\rule{\linewidth}{1pt}}$
+<div style="height:2px; width:100%; background-color:yellow;"></div>
 
 <br>
 
@@ -208,6 +209,7 @@ This is the **core equation**.
 ## 5️⃣ The NON-TRIVIAL condition (very important)
 
 The equation:
+
 $$
 {(A - \lambda I)\mathbf{v} = 0}
 $$
