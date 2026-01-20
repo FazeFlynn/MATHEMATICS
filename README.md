@@ -403,6 +403,7 @@ x + y = 0
 $$
 
 Eigenvectors:
+
 $$
 {
 \begin{bmatrix}
