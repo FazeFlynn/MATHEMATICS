@@ -108,7 +108,7 @@ $$
 ---
 
 $$
-{\color{yellow}\rule{1000px}{10px}}
+{\color{red}\rule{800px}{5px}}
 $$
 
 $$
@@ -144,7 +144,7 @@ Scaling first or transforming first gives the same result
 ---
 
 $$
-{\color{yellow}\rule{1000px}{10px}}
+{\color{red}\rule{800px}{5px}}
 $$
 
 $$
