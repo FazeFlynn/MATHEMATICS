@@ -1,3 +1,6 @@
+${\color{red}\rule{\linewidth}{1pt}}$
+<div style="height:2px; width:100%; background-color:yellow;"></div>
+
 # The Vector Space Rules
 ## Group 1️⃣: Rules that make addition behave sensibly (5 rules)
 
@@ -139,9 +142,6 @@ Scaling first or transforming first gives the same result
 
 ---
 ---
-
-${\color{red}\rule{\linewidth}{1pt}}$
-<div style="height:2px; width:100%; background-color:yellow;"></div>
 
 <br>
 
