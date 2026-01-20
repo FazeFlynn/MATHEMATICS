@@ -311,7 +311,7 @@ $$
 $$
 
 $$
-{\lambda = 1,; 3}
+{\lambda = 1, \\, 3}
 $$
 
 ✅ **Eigenvalues found**
@@ -368,11 +368,11 @@ $$
 \begin{bmatrix}
 1 \\
 1
-\end{bmatrix},
+\end{bmatrix} \,
 \begin{bmatrix}
 2 \\
 2
-\end{bmatrix},
+\end{bmatrix} \,
 \text{etc.}
 }
 $$
