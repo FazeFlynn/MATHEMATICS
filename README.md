@@ -263,7 +263,7 @@ Let:
 
 $$
 {A = \begin{bmatrix}
-2 & 1
+2 & 1 \\
 1 & 2
 \end{bmatrix}}
 $$
@@ -274,7 +274,7 @@ $$
 
 $$
 {\begin{bmatrix}
-2-\lambda & 1
+2-\lambda & 1 \\
 1 & 2-\lambda
 \end{bmatrix}}
 $$
