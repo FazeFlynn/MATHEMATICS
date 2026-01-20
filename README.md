@@ -1,5 +1,5 @@
 $$
-\color{purple}\text{==================================}
+\color{purple}==================================
 $$
 
 # The Vector Space Rules
