@@ -1,5 +1,5 @@
 $$
-{\color{red}\rule{100%}{2px}}
+{\color{red}\rule{100px}{2px}}
 $$
 
 
