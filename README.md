@@ -1,6 +1,15 @@
 ${\color{red}\rule{\linewidth}{1pt}}$
 <div style="height:2px; width:100%; background-color:yellow;"></div>
 
+$$
+\color{red}\rule{100%}{1pt}
+$$
+
+
+$$
+\color{red}\text{————————————————————————————————————}
+$$
+
 # The Vector Space Rules
 ## Group 1️⃣: Rules that make addition behave sensibly (5 rules)
 
