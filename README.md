@@ -139,6 +139,7 @@ Scaling first or transforming first gives the same result
 
 ---
 ---
+<hr style="background-color:red; height:2px; border:none;">
 
 <br>
 
