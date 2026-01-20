@@ -1,8 +1,3 @@
-$$
-{\color{purple}\rule{1000px}{10px}}
-$$
-
-
 # The Vector Space Rules
 ## Group 1️⃣: Rules that make addition behave sensibly (5 rules)
 
@@ -111,7 +106,10 @@ $$
 
 
 ---
----
+
+$$
+{\color{yellow}\rule{1000px}{10px}}
+$$
 
 $$
 {\color{yellow}\text{***************************************************************************************************}}
@@ -144,7 +142,10 @@ Meaning:
 Scaling first or transforming first gives the same result
 
 ---
----
+
+$$
+{\color{yellow}\rule{1000px}{10px}}
+$$
 
 $$
 {\color{yellow}\text{***************************************************************************************************}}
