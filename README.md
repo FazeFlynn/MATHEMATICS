@@ -548,7 +548,7 @@ where (${c}$) is a constant.
 
 $$
 {
-\frac{d}{dx}(c f) = c\,\frac{df}{dx}
+\frac{d}{dx}(c f) = c\\,\frac{df}{dx}
 }
 $$
 
@@ -568,7 +568,7 @@ More generally:
 
 $$
 {
-\frac{d}{dx}\left(f^n\right) = n f^{\,n-1}\frac{df}{dx}
+\frac{d}{dx}\left(f^n\right) = n f^{\\,n-1}\frac{df}{dx}
 }
 $$
 
@@ -598,7 +598,7 @@ $$
 
 $$
 {
-\frac{d}{dx}(f g) = f\,\frac{dg}{dx} + g\,\frac{df}{dx}
+\frac{d}{dx}(f g) = f\\,\frac{dg}{dx} + g\\,\frac{df}{dx}
 }
 $$
 
@@ -616,10 +616,10 @@ $$
 
 ## 8. Chain Rule
 
-If (${y = f(g(x))}$)\, then:
+If (${y = f(g(x))}$)\\, then:
 $$
 {
-\frac{dy}{dx} = \frac{df}{dg}\,\frac{dg}{dx}
+\frac{dy}{dx} = \frac{df}{dg}\\,\frac{dg}{dx}
 }
 $$
 
@@ -700,11 +700,13 @@ $$
 ## 12. Implicit Differentiation (rule form)
 
 If an equation involves (${x}$) and (${y}$):
+
 $$
 {
 \frac{d}{dx}(y) = \frac{dy}{dx}
 }
 $$
+
 
 
 
