@@ -635,7 +635,7 @@ $$
 
 $$
 {
-\frac{d}{dx}(a^x) = a^x \ln(a)
+\frac{d}{dx}(a^x) = a^x\\, \ln(a)
 }
 $$
 
@@ -645,13 +645,13 @@ $$
 
 $$
 {
-\frac{d}{dx}(\ln x) = \frac{1}{x}
+\frac{d}{dx}(\ln\\, x) = \frac{1}{x}
 }
 $$
 
 $$
 {
-\frac{d}{dx}(\log_a x) = \frac{1}{x\ln a}
+\frac{d}{dx}(\log_a\\, x) = \frac{1}{x\ln\\, a}
 }
 $$
 
@@ -661,37 +661,37 @@ $$
 
 $$
 {
-\frac{d}{dx}(\sin x) = \cos x
+\frac{d}{dx}(\sin x) = \cos\\, x
 }
 $$
 
 $$
 {
-\frac{d}{dx}(\cos x) = -\sin x
+\frac{d}{dx}(\cos x) = -\sin\\, x
 }
 $$
 
 $$
 {
-\frac{d}{dx}(\tan x) = \sec^2 x
+\frac{d}{dx}(\tan x) = \sec^2\\, x
 }
 $$
 
 $$
 {
-\frac{d}{dx}(\csc x) = -\csc x \cot x
+\frac{d}{dx}(\csc x) = -\csc\\, x\\, \cot\\, x
 }
 $$
 
 $$
 {
-\frac{d}{dx}(\sec x) = \sec x \tan x
+\frac{d}{dx}(\sec x) = \sec\\, x\\, \tan\\, x
 }
 $$
 
 $$
 {
-\frac{d}{dx}(\cot x) = -\csc^2 x
+\frac{d}{dx}(\cot x) = -\csc^2\\,x
 }
 $$
 
