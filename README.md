@@ -617,6 +617,7 @@ $$
 ## 8. Chain Rule
 
 If (${y = f(g(x))}$)\\, then:
+
 $$
 {
 \frac{dy}{dx} = \frac{df}{dg}\\,\frac{dg}{dx}
