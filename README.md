@@ -523,7 +523,189 @@ $$
 
 
 ---
+
+$$
+{\color{yellow}\text{***************************************************************************************************}}
+$$
+
+<br>
+
+# Standard differentiation rules
+
+## 1. Constant Rule
+
+$$
+{
+\frac{d}{dx}(c) = 0
+}
+$$
+
+where (${c}$) is a constant.
+
 ---
+
+## 2. Constant Multiple Rule
+
+$$
+{
+\frac{d}{dx}(c f) = c\,\frac{df}{dx}
+}
+$$
+
+---
+
+## 3. Power Rule
+
+$$
+{
+\frac{d}{dx}\left(x^n\right) = n x^{n-1}
+}
+$$
+
+(for any real number (${n}$))
+
+More generally:
+
+$$
+{
+\frac{d}{dx}\left(f^n\right) = n f^{\,n-1}\frac{df}{dx}
+}
+$$
+
+---
+
+## 4. Sum Rule
+
+$$
+{
+\frac{d}{dx}(f + g) = \frac{df}{dx} + \frac{dg}{dx}
+}
+$$
+
+---
+
+## 5. Difference Rule
+
+$$
+{
+\frac{d}{dx}(f - g) = \frac{df}{dx} - \frac{dg}{dx}
+}
+$$
+
+---
+
+## 6. Product Rule
+
+$$
+{
+\frac{d}{dx}(f g) = f\,\frac{dg}{dx} + g\,\frac{df}{dx}
+}
+$$
+
+---
+
+## 7. Quotient Rule
+
+$$
+{
+\frac{d}{dx}\left(\frac{f}{g}\right) = \frac{g \frac{df}{dx} - f \frac{dg}{dx}}{g^2} \quad (g \neq 0)
+}
+$$
+
+---
+
+## 8. Chain Rule
+
+If (${y = f(g(x))}$)\, then:
+$$
+{
+\frac{dy}{dx} = \frac{df}{dg}\,\frac{dg}{dx}
+}
+$$
+
+---
+
+## 9. Exponential Rules
+
+$$
+{
+\frac{d}{dx}(e^x) = e^x
+}
+$$
+
+$$
+{
+\frac{d}{dx}(a^x) = a^x \ln(a)
+}
+$$
+
+---
+
+## 10. Logarithmic Rules
+
+$$
+{
+\frac{d}{dx}(\ln x) = \frac{1}{x}
+}
+$$
+
+$$
+{
+\frac{d}{dx}(\log_a x) = \frac{1}{x\ln a}
+}
+$$
+
+---
+
+## 11. Trigonometric Rules
+
+$$
+{
+\frac{d}{dx}(\sin x) = \cos x
+}
+$$
+
+$$
+{
+\frac{d}{dx}(\cos x) = -\sin x
+}
+$$
+
+$$
+{
+\frac{d}{dx}(\tan x) = \sec^2 x
+}
+$$
+
+$$
+{
+\frac{d}{dx}(\csc x) = -\csc x \cot x
+}
+$$
+
+$$
+{
+\frac{d}{dx}(\sec x) = \sec x \tan x
+}
+$$
+
+$$
+{
+\frac{d}{dx}(\cot x) = -\csc^2 x
+}
+$$
+
+---
+
+## 12. Implicit Differentiation (rule form)
+
+If an equation involves (${x}$) and (${y}$):
+$$
+{
+\frac{d}{dx}(y) = \frac{dy}{dx}
+}
+$$
+
 
 
 $$
