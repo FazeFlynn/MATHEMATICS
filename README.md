@@ -712,5 +712,5 @@ $$
 
 
 $$
-{End\,of\,file}
+{End\,of\,files} 
 $$
